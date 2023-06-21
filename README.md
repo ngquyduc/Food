@@ -1,27 +1,55 @@
-# Foodstore
+# Foodstore UI
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
+### Screen Shots
 
-## Development server
+<img src="src/assets/docs/main.png">
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+_Main Page_
 
-## Code scaffolding
+<img src="src/assets/docs/details.png">
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+_Food Description Page_
 
-## Build
+<img src="src/assets/docs/cart.png">
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+_Cart Page_
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Table of Contents
 
-## Running end-to-end tests
+- [Description](#description)
+- [Author Info](#author-info)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+---
 
-## Further help
+## Description
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- A simple online food store user interface I built using AngularJS!
+- User can view the description of a food, search for their food in main page, and add their wanted food to cart
+
+#### Technologies
+
+- AngularJS
+- TypeScript
+- HTML
+- CSS
+
+---
+
+### How to use:
+
+- Clone the project to your computer
+- Run `npm install` or `yarn add` to install the packages
+- Run `ng serve` to start the project
+
+---
+
+### What I Learned:
+
+- Setting up and developing an Angular project
+- How Angular components and routing work
+
+---
+
+[Back To The Top](#Foodstore-UI)
